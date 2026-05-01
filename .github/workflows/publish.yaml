@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Use XCode 26.0
-        run: sudo xcode-select -switch /Applications/Xcode_26.0.app
+        run: sudo xcode-select -switch /Applications/Xcode_26.0.1.app
 
       - name: Install dotnet workload to compile for macOS
         run: dotnet workload install macos
