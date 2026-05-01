@@ -12,4 +12,3 @@
 *.user
 *.*~
 .DS_Store
-src/AppBlock/blocked-applications.txt
