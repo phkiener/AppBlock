@@ -2,7 +2,7 @@
 
 ---
 
-[![Install via Homebrew](https://img.shields.io/badge/homebrew-phkiener%2Fpersonal%2Fapp--block-orange?style=for-the-badge)](https://github.com/phkiener/homebrew-personal/blob/main/Casks/app-block.rb)
+[![Install via Homebrew](https://img.shields.io/badge/homebrew-phkiener%2Fhomebrew--personal%2Fapp--block-orange?style=for-the-badge)](https://github.com/phkiener/homebrew-personal/blob/main/Casks/app-block.rb)
 &nbsp;
 ![X-Clacks-Overhead "GNU Terry Pratchett"](https://img.shields.io/badge/this%20is-a%20badge!-blue?style=for-the-badge)
 
