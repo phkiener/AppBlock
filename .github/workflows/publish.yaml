@@ -10,15 +10,15 @@ env:
 
 jobs:
   build:
-    runs-on: macos-15
+    runs-on: macos-26
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - name: Use XCode 16.3
-        run: sudo xcode-select -switch /Applications/Xcode_16.3.app
+      - name: Use XCode 26.0
+        run: sudo xcode-select -switch /Applications/Xcode_26.0.app
 
       - name: Install dotnet workload to compile for macOS
         run: dotnet workload install macos
