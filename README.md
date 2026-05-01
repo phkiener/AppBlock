@@ -2,7 +2,7 @@
 
 ---
 
-[![Install via Homebrew](https://img.shields.io/badge/homebrew-phkiener%2Fhomebrew--personal%2Fapp--block-orange?style=for-the-badge)](https://github.com/phkiener/homebrew-personal/blob/main/Casks/app-block.rb)
+[![Install via Homebrew](https://img.shields.io/badge/homebrew-phkiener%2Fpersonal%2Fapp--block-orange?style=for-the-badge)](https://github.com/phkiener/homebrew-personal/blob/main/Casks/app-block.rb)
 &nbsp;
 ![X-Clacks-Overhead "GNU Terry Pratchett"](https://img.shields.io/badge/this%20is-a%20badge!-blue?style=for-the-badge)
 
@@ -18,7 +18,7 @@ Either download the latest [GitHub Release](https://github.com/phkiener/AppBlock
 ... or use homebrew!
 
 ```sh
-brew install phkiener/homebrew-personal/app-block
+brew install phkiener/personal/app-block
 ```
 
 Note that the app is *not* signed, so you will need to bypass the gatekeeper. After launching for the first time (which
